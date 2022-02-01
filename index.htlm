@@ -1,8 +1,11 @@
 <!DOCTYPE html>
+
 <html>
 <body>
 
-hello world
+<h1>hello world</1h>
+<p>Paragrāfs</p>
+<br>Izlaist līniju</br>
 
 </body>
 </html>
